@@ -1,0 +1,146 @@
+footer {
+  padding-bottom: 12px;
+  padding-top: 5px;
+  background-color: rgb(27, 26, 26);
+  text-align: center;
+}
+img {
+  width: 200px;
+}
+h4 {
+  font-weight: bolder;
+}
+/* navbar */
+nav h6 {
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+}
+nav a {
+  border: 2px solid rgb(0, 225, 255);
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 10px;
+  text-decoration: none;
+}
+/* end navbar */
+/* Jumbotron */
+#resume {
+  border: 2px solid rgb(0, 225, 255);
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 10px;
+  text-decoration: none;
+}
+/* eND Jumbotron */
+/* css contoh */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: white;
+  overflow-x: hidden;
+  background-color: rgb(36, 35, 35);
+}
+.head {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.wrapper {
+  max-width: 960px;
+  margin: auto;
+  text-align: center;
+}
+.box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.box video {
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 20%;
+}
+.header-overlay {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 45, 1);
+  background: rgba(0, 0, 45, 1);
+}
+.content {
+  z-index: 99;
+  width: 400px;
+  margin: auto;
+}
+.content h1 {
+  font-size: 50px;
+}
+
+/* End css contoh */
+/* Experince */
+
+h5 {
+  font-weight: bold;
+}
+em {
+  font-size: 10px;
+}
+.card {
+  width: 18rem;
+  height: 18rem;
+}
+.logo img {
+  width: 30px;
+}
+/* END Experince */
+/* Software And tools */
+#language_softwaretool {
+  background-color: rgb(255, 255, 255);
+  color: rgb(19, 18, 18);
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+/* END Software And tools */
+/* Contact */
+#contact {
+  background-color: rgb(255, 255, 255);
+  color: rgb(19, 18, 18);
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+/* ENd Contact */
+/* FONT */
+p {
+  font-family: monospace;
+  position: relative;
+}
+.btn {
+  color: white;
+}
+
+#masterpiece {
+  background-color: rgb(29, 28, 28);
+}
+.kartu {
+  box-shadow: 5px 8px rgb(109, 107, 107);
+  background-color: rgb(0, 0, 0);
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.kartu img {
+  margin: 0;
+  padding: 0;
+}
+
+/* END FONT */
